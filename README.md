@@ -20,10 +20,11 @@ To use the Telegram Email Bot, follow these steps:
   - smtp_port: SMTP server port
   - smtp_username: SMTP server username
   - smtp_password: SMTP server password
-    
+
 4.**Run the bot:**
-    ```bash
-    python your_bot_script.py
+  ```bash
+  python main.py
+   ```
 
 ## Commands
 
