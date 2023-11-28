@@ -1,6 +1,6 @@
 # Bot_telegram_printer
 ## Overview
-This Telegram bot allows users to send images or documents from their Telegram account as email attachments (the recommended use is to send files to a printer to send them to print).
+This Telegram bot allows users to send images or documents from your Telegram account as email attachments (the recommended use is to send files to a printer to send them to print).
 
 
 ## Getting Started
