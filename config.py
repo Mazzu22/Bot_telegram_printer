@@ -11,6 +11,6 @@ to_email = 'INSERT YOUR PRINTER MAIL'
 
 #SMTP and credential of the mail that will send the mail 
 smtp_server = 'YOUR SMPT SERVER LIKE-->smtp.zoho.eu'
-smtp_port = 'INSERT YOUR IP (WITHOUT '')'
+smtp_port = 'INSERT YOUR SMTP PORT'
 smtp_username = 'YOUR MAIL'
 smtp_password = 'YOUR PASSWORD'
