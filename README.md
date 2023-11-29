@@ -8,10 +8,10 @@ To use the Telegram Email Bot, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/telegram-email-bot.git
+   git clone https://github.com/Mazzu22/Bot_telegram_printer.git
 2. **Install the required dependencies:**
    ```bash
-   git clone https://github.com/your-username/telegram-email-bot.git
+   pip install -r requirements.txt
 3.**Configure config.py file with the following variables:**
   - bot_token: Telegram Bot Token
   - pass_iniziale: Initial Password for bot access
